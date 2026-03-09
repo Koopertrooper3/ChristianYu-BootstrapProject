@@ -23,7 +23,7 @@
     margin-top: 2em;
     width: 14em;
     height: 4em;
-    background: #ff4000;
+    background: #ff970f;
     background: linear-gradient(90deg, rgba(255, 64, 0, 1) 0%, rgba(255, 119, 0, 1) 50%, rgba(255, 205, 158, 1) 100%);
     border: none;
 }
@@ -34,6 +34,11 @@
     padding: 2em 2em;
     margin: 0em 2em;
     box-shadow: 10px 5px 5px grey;
+}
+.main-option-box-active{
+    background: #ffa600;
+    color:white
+
 }
 .bg-orange{
     background-color: orange;
