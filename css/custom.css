@@ -1,0 +1,62 @@
+.curved-bottom{
+    border-radius: 0% 0% 50% 50%;
+    width: 200%;
+}
+.bg-top{
+    background-image: url("../image/meeting-bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    align-self: center;
+    margin:auto;
+    height: 60%;
+    width: 100%;
+    border-radius: 0px 0px 1000px 1000px / 10%;
+    z-index: -1;
+}
+
+.mg-top-8-perc{
+    margin-top: 8%;
+}
+
+.center-button{
+    margin-top: 2em;
+    width: 14em;
+    height: 4em;
+    background: #ff4000;
+    background: linear-gradient(90deg, rgba(255, 64, 0, 1) 0%, rgba(255, 119, 0, 1) 50%, rgba(255, 205, 158, 1) 100%);
+    border: none;
+}
+
+.main-option-box{
+    width: 25em;
+    height: 15em;
+    padding: 2em 2em;
+    margin: 0em 2em;
+    box-shadow: 10px 5px 5px grey;
+}
+.bg-orange{
+    background-color: orange;
+}
+
+.text-gray{
+    color: gray;
+}
+.main-option-button{
+    height: 2em;
+    width: 6em;
+    
+}
+
+.orange-circle{
+    height: 10%;
+}
+.about-us-box{
+    margin: 0 3em;
+    width: 15em;
+}
+
+.sign-up-button{
+    width: 8em;
+    text-align: center;
+}
